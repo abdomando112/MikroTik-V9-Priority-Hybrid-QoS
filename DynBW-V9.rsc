@@ -1,3 +1,21 @@
+# ============================================================
+# DynBW V9 - Adaptive Bandwidth Controller for MikroTik
+# ============================================================
+# Author:  Eng. Hudhaifa Aref (المهندس حذيفه عارف)
+# GitHub:  https://github.com/huttta4-commits
+# Version: 9.0
+# Date:    2026-09-20
+# License: MIT
+# ============================================================
+# Automatically adjusts Global parent queue limits based on
+# real-time utilization, queue depth, and packet drops.
+# Designed for Starlink + Hotspot (200+ users).
+# ============================================================
+# Usage: Upload to router, then schedule:
+#   /system scheduler add name="DynBW-V9" interval=1m \
+#     on-event=":do {/import file-name=DynBW-V9.rsc} on-error={}"
+# ============================================================
+
 :local qDL "Global-Download"
 :local qUL "Global-Upload"
 :local dlMin 120000000
